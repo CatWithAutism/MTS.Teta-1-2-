@@ -41,4 +41,4 @@ func main() {
 	println(archiveString("aaabbbcccccaaaaa"))
 	println(archiveString("aaabbbccccc"))
 	println(archiveString("zzzzcccUUUuu"))
-}
+} 
